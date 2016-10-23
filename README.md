@@ -1,0 +1,1 @@
+Just a PHP file to connect to the project API
